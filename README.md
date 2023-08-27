@@ -1,4 +1,4 @@
-# Alexa--Smart-Voice-Recognizer
+# Smart-Voice-Recognizer
 A voice-controlled system that can accomplish some tasks using our voice.
 
 Firstly we would need to download certain libraries which are mentioned in the code.
